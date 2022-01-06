@@ -7,11 +7,12 @@ h1{
     margin: 0px;
     padding: 10px;
 }
-.mission{
+.ms{
     color: rgb(241, 34, 16);
 }
-section{
+.flexible-container{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     padding: 30px;
@@ -30,6 +31,34 @@ section{
 }
 .border{
     border-left: 4px solid;
-    border-color: rgb(241, 34, 16);
-     
+    border-color: rgb(241, 34, 16);    
+}
+#my{
+    text-align: center;
+}
+.mission{
+    background-color: rosybrown;    
+}
+.vission{
+    background-color: slategray;
+}
+.goals{
+    background-color: orchid;
+}
+.experience-item{
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 3%;
+    padding-left: 20px;
+    padding-right: 10px;
+    border-radius: 20px;
+}
+.mission img{
+    width: 30%;
+}
+.vission img{
+    width: 30%;
+}
+.goals{
+    width: 30%;
 }
