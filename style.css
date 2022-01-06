@@ -7,6 +7,10 @@ h1{
     margin: 0px;
     padding: 10px;
 }
+h2{
+    font-size: 40px;
+    margin: 2px;
+}
 .ms{
     color: rgb(241, 34, 16);
 }
@@ -66,4 +70,19 @@ h1{
     background-image: url(images/shapes/dream-bg.png);
     background-repeat: no-repeat;
     margin-left: 50px;
+}
+.develop{
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: rgb(180, 167, 167);
+    margin: 0;
+    padding: 30px;
+}
+.cr{
+    color: white;
 }
