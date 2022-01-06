@@ -1,0 +1,35 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    margin: 0px;
+    padding: 10px;
+}
+.mission{
+    color: rgb(241, 34, 16);
+}
+section{
+    display: flex;
+}
+.half-width{
+    padding: 30px;
+    padding-left: 10%;
+    width: 50%;
+}
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(243, 46, 46);
+    border-radius: 5px;
+    padding: 10px 40px;
+    color: white;
+}
+.border{
+    border-left: 4px solid;
+    border-color: rgb(241, 34, 16);
+     
+}
